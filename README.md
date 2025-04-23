@@ -4,7 +4,7 @@ Olá, seja bem vindo! 👋😀
 <li>Me chamo Eric Castro. 🫡</li>
 <li>Tenho 30 anos. 😥</li>
 <li>Sou apaixonado por Tecnologia e Pixel art. 🤖</li>
-<li>Atualmente estou estudando Python, Inteligência1 Artificial e Pixel art. 👨🏻‍💻</li>
+<li>Atualmente estou estudando Python, Inteligência Artificial e Pixel art. 👨🏻‍💻</li>
 
 <h3>Me siga nas redes sociais para conversarmos.</h3>
 <div align="left">
