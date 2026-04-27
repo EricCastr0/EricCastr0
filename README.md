@@ -2,7 +2,7 @@ Olá, seja bem vindo! 👋😀
 ---
 <h3>Sobre mim:</h3>
 <li>Me chamo Eric Castro. 🫡</li>
-<li>Tenho 30 anos. 😥</li>
+<li>Tenho 31 anos. 😥</li>
 <li>Estudante de Tecnologia. 🤖</li>
 <li>Atualmente estou estudando Python e Inteligência Artificial. 👨🏻‍💻</li>
 
