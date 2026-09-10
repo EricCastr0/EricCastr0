@@ -1,22 +1,59 @@
-Olá, seja bem vindo! 👋😀
----
-<h3>Sobre mim:</h3>
-<li>Me chamo Eric Castro. 🫡</li>
-<li>Tenho 31 anos. 😥</li>
-<li>Estudante de Tecnologia. 🤖</li>
-<li>Atualmente estou estudando Python e Inteligência Artificial. 👨🏻‍💻</li>
+# Hi, I'm Eric Castro 👋
 
-<h3>Me siga nas redes sociais para conversarmos.</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/eric-castro-silva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-</div>
+### Software Developer | Web Applications, APIs, Automation & Databases
 
-###
+I build practical software solutions focused on business processes, automation, integrations and data.
 
-<div align="left">
-  <img height="250" src="https://wallpaperaccess.com/full/8351209.gif"  />
-</div>
+My projects range from internal productivity tools and data converters to web applications, APIs and database integrations.
 
-###
+## 👨‍💻 About Me
+
+* 💻 Software developer focused on practical and scalable solutions
+* ⚙️ Building web applications, APIs and automation tools
+* 🗄️ Experience working with relational databases and SQL Server
+* 🚀 Interested in backend development, system integration and AI-assisted development
+* 🇧🇷 Based in Brazil
+
+## 🛠️ Technologies
+
+**Backend**
+
+`Go` `Python` `REST APIs`
+
+**Frontend**
+
+`JavaScript` `TypeScript` `React` `HTML` `CSS`
+
+**Databases**
+
+`SQL Server` `Supabase`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Visual Studio`
+
+## 🚀 Featured Projects
+
+### 🔎 Consulta CNPJ
+
+Web application for bulk CNPJ queries, CSV import/export and tax regime analysis.
+
+### 💳 Conversor OFX
+
+Desktop tool that converts payment reports from Excel into OFX files for financial systems.
+
+### 📊 Exportador CSV
+
+Utility focused on processing and exporting structured business data.
+
+### 🖥️ Windows Optimizer
+
+Windows optimization and automation utility.
+
+### 🎮 Sprite Cutter
+
+Tool for processing and splitting sprite sheets for game development.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/eric-castro-silva/) • [GitHub](https://github.com/EricCastr0)
